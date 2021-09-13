@@ -16,7 +16,7 @@ export const Menu = (props) => {
     const toggle = () => setIsOpen(!isOpen);
     return (
         <div>
-            <Navbar className="cor-azul p-3 headernavbar" dark expand="md">
+            <Navbar className="cor-azul p-3 headernavbar" dark expand="md" style={{ marginLeft: '10%' }}>
                 <Container>
                     <NavbarBrand>Services TI Academy</NavbarBrand>
                     <NavbarToggler onClick={toggle} />
