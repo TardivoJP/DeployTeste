@@ -49,13 +49,6 @@
   }
 }
 
-.headernavbar{
-  width: 100vw;
-  max-width: 100%;
-  position: absolute;
-  z-index: 100;
-}
-
 /* css para a home */
 
 img#hero-img{
