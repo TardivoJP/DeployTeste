@@ -49,6 +49,11 @@
   }
 }
 
+.headernavbar{
+  position: absolute;
+  z-index: 100;
+}
+
 /* css para a home */
 
 img#hero-img{
